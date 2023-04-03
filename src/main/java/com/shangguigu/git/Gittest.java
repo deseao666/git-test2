@@ -4,5 +4,6 @@ public class Gittest {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("二次配置");
+        System.out.println("三次配置");
     }
 }
