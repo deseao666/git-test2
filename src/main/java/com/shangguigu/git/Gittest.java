@@ -5,5 +5,6 @@ public class Gittest {
         System.out.println("hello git");
         System.out.println("二次配置");
         System.out.println("三次配置");
+        System.out.println("四");
     }
 }
