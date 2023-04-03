@@ -7,5 +7,7 @@ public class Gittest {
         System.out.println("三次配置");
         System.out.println("四");
         System.out.println("热更新");
+        System.out.println("fox-test");
+
     }
 }
