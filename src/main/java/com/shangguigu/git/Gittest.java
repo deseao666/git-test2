@@ -9,7 +9,7 @@ public class Gittest {
         System.out.println("热更新");
         System.out.println("master-test");
         System.out.println("fox-test");
-        System.out.println("pull-test");
+        System.out.println("新版idea");
 
     }
 }
